@@ -50,6 +50,13 @@ crashlytics-build.properties
 !/[Aa]ssets/**/*
 !/[Pp]roject[Ss]ettings/**/*
 
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
 # backup files
 *.[Bb]ack[Uu]p
 *.[Bb]ack[Uu]p.meta
