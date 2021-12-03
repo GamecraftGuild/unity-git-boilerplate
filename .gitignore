@@ -40,6 +40,7 @@ crashlytics-build.properties
 
 # Builds
 *.apk
+*.aab
 *.unitypackage
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
